@@ -69,6 +69,7 @@ class EnglishDictionary implements Dictionary
         'PLN' => [['zloty', 'zlotys'], ['grosz']],
         'ROL' => [['Romanian leu'], ['bani']],
         'RUB' => [['Russian Federation rouble'], ['kopiejka']],
+        'SAR' => [['Riyal'], ['Halala']],
         'SEK' => [['Swedish krona'], ['oere']],
         'SIT' => [['Tolar'], ['stotinia']],
         'SKK' => [['Slovak koruna'], []],
